@@ -1,0 +1,52 @@
+h1{
+  color: red;
+}
+
+header{
+  width: 100%;
+  height: auto;
+  background: red;
+}
+
+.editHeader{
+  box-shadow: none;
+  background-color: initial;
+}
+
+
+.parallax_warp{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.icon-size{
+  font-size: 36px;
+}
+
+.movie_column{
+  display: flex;
+  flex-flow: wrap;
+  align-items: center;
+}
+
+.otto {
+  font-family:Mr Dafoe, sans-serif;
+  font-size:16em;
+ text-align:center;
+  text-shadow: 0 -3px 0 #333,
+    0 6px 8px rgba(0,0,0,.4),
+    0 9px 10px rgba(0,0,0,.15),
+    0 30px 10px rgba(0,0,0,.18),
+    0 15px 10px rgba(0,0,0,.21);
+}
+
+.card_setting{
+  width: 100%;
+}
+.ratingLabel{
+  display: flex;
+  align-items: center;
+}
